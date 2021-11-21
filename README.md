@@ -1,3 +1,3 @@
-# M361NumericalAnalysis
+# Numerical Analysis Scripts
 
-Numerical analysis code including Bisection, Newton's Method, Gauss-Newton, L-M, Gauss elimination, linear system solutions, interpolation, extrapolation, etc.
+Python scripts for numerical analysis including Bisection, Newton's Method, Gauss-Newton, L-M, Gauss elimination, linear system solutions, interpolation, extrapolation, etc.
